@@ -30,4 +30,15 @@ Big ups to:
 - Hybrid Minds;
 - Jakwob;
 - Spectrasoul;
-as their music was used here. 
+as their music:
+
+- "BenZel_-_Wasted_Love_Spectrasoul_Remix_",
+- "Elliot_Moss_-_Slip_SpectraSoul_Bootleg_",
+- "Hybrid_Minds_-_Lost_",
+- "Hybrid_Minds_-_Meant_To_Be",
+- "Hybrid_Minds_-_Summer_Rain",
+- "Jakwob_-_Blinding_Hybrid_Minds_Remix_",
+- "SpectraSoul_-_How_We_Live",
+- "SpectraSoul_-_Second_Chance"
+
+was used here, all songs in .wav extension.
